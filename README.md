@@ -9,6 +9,12 @@ Extract structured text from images using Vision Models
 Support for multiple Llama 3.2 vision models:
 - llama-3.2-11b-vision-preview
 - llama-3.2-90b-vision-preview
+Advanced handwriting recognition capabilities
+<img width="1362" alt="Screenshot 2025-04-02 at 18 18 16" src="https://github.com/user-attachments/assets/9a86be37-8682-4b30-86ce-de8a917ddcce" />
+Responsive UI with image preview
+Results displayed in Markdown format
+  
+
 
 
 ## Requirements
