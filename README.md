@@ -4,7 +4,6 @@
 <img width="1375" alt="Screenshot 2025-04-02 at 18 09 24" src="https://github.com/user-attachments/assets/6b90bcd6-4f4c-4afe-9940-038141c47b76" />
 
 
----
 
 ## Requirements
 
@@ -14,19 +13,6 @@
 - Requests
 - A valid Groq API key
 
----
-## Usage
-
-Start the Streamlit app:
-> Copystreamlit run app.py
-
-Open your web browser and go to http://localhost:8501
-Upload an image (PNG, JPG, or JPEG, up to 200MB)
-Select the desired Llama 3.2 vision model
-Click "Extract Text" to process the image
-View the extracted text formatted in Markdown
-
----
 
 ## How It Works
 The application uses the Groq API to access Meta's Llama 3.2 vision models. When you upload an image, the application:
