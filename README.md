@@ -23,9 +23,9 @@ Support for multiple Llama 3.2 vision models:
 ## How It Works
 The application uses the Groq API to access Meta's Llama 3.2 vision models. When you upload an image, the application:
 
-Converts the image to a base64-encoded string
-Sends the image to the Groq API along with a prompt for text extraction
-Processes the API response
-Displays the extracted text in a formatted Markdown layout
+1. Converts the image to a base64-encoded string
+2. Sends the image to the Groq API along with a prompt for text extraction
+3. Processes the API response
+4. Displays the extracted text in a formatted Markdown layout
 
 ---
