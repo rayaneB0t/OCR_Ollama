@@ -1,23 +1,24 @@
 # Llama 3.2 Vision OCR
 
 
+<img width="1375" alt="Screenshot 2025-04-02 at 18 09 24" src="https://github.com/user-attachments/assets/6b90bcd6-4f4c-4afe-9940-038141c47b76" />
 
 
 ---
 
 ## Requirements
 
-Python 3.7+
-Streamlit
-Pillow
-Requests
-A valid Groq API key
+- Python 3.7+
+- Streamlit
+- Pillow
+- Requests
+- A valid Groq API key
 
 ---
 ## Usage
 
 Start the Streamlit app:
-Copystreamlit run app.py
+> Copystreamlit run app.py
 
 Open your web browser and go to http://localhost:8501
 Upload an image (PNG, JPG, or JPEG, up to 200MB)
