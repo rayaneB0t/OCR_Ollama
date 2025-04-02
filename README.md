@@ -3,6 +3,12 @@
 
 <img width="1375" alt="Screenshot 2025-04-02 at 18 09 24" src="https://github.com/user-attachments/assets/6b90bcd6-4f4c-4afe-9940-038141c47b76" />
 
+## Features
+
+Extract structured text from images using Vision Models
+Support for multiple Llama 3.2 vision models:
+- llama-3.2-11b-vision-preview
+- llama-3.2-90b-vision-preview
 
 
 ## Requirements
